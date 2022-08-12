@@ -9,6 +9,8 @@ Krijimi i CV-se
 ![Gjenerimi i CV-se (1)](https://user-images.githubusercontent.com/63414249/184367103-e5741870-d98a-4bb3-aced-6242bab6f55f.png)
 ![Gjenerimi i CV-se (2)](https://user-images.githubusercontent.com/63414249/184367109-ee473de6-c490-4964-9639-8e44711b28cb.png)
 
+Admin Panel-
+![AdminPanel](https://user-images.githubusercontent.com/63414249/184368188-9cfe8ea5-5644-451f-8b19-f4e3375a3912.png)
 
 
 
