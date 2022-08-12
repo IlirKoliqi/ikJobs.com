@@ -12,5 +12,7 @@ Krijimi i CV-se
 Admin Panel-
 ![AdminPanel](https://user-images.githubusercontent.com/63414249/184368188-9cfe8ea5-5644-451f-8b19-f4e3375a3912.png)
 
+Aplikimi Online me CV-
+![Aplikimi](https://user-images.githubusercontent.com/63414249/184368419-2268cd4f-b616-42cf-8269-4115b21e1628.png)
 
 
