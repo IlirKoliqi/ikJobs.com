@@ -16,3 +16,4 @@ Aplikimi Online me CV-
 ![Aplikimi](https://user-images.githubusercontent.com/63414249/184368419-2268cd4f-b616-42cf-8269-4115b21e1628.png)
 
 
+Edited
